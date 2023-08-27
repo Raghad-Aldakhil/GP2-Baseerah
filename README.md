@@ -20,5 +20,5 @@ through an interactive game that provides non-visual feedback
 |Raghad Salahuddin Abdullatif Alghanim| 440022172|
 |Raghad Suliman Dakhil Aldakhil| 440023173  |
  
- **Supervisor: Dr. Manan Almusallam 
+ **Supervisor: Dr. Manan Almusallam **
 
