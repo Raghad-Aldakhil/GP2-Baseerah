@@ -1,6 +1,8 @@
 # GP2-Baseerah [بصيرة]
 ![Screenshot 2023-08-27 234254](https://github.com/Raghad-Aldakhil/GP2-Baseerah/assets/121506944/a3b53d95-bdea-4e54-8ce8-5a11726a8800)
 
+**Accessible Game for Blind Children**
+
 ### Abstract 
 
 Blindness or visual impairment is a functional limitation of the eyes that has an impact on 
