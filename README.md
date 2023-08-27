@@ -12,3 +12,10 @@ sighted children. In this project, we will develop an inclusive app that is acce
 preschoolers. Our application will teach children about numbers and the basics of counting 
 through an interactive game that provides non-visual feedback
 
+### By :
+| Student Name | ID |
+| ------------- | ------------- |
+| Alanoud Abdullah Mohammad Almousa| 440019237|
+Nouf Hassan Mohammed Alnikhili| 440022528|
+Raghad Salahuddin Abdullatif Alghanim| 440022172|
+Raghad Suliman Dakhil Aldakhil| 440023173  |
