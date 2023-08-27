@@ -19,5 +19,6 @@ through an interactive game that provides non-visual feedback
 |Nouf Hassan Mohammed Alnikhili| 440022528|
 |Raghad Salahuddin Abdullatif Alghanim| 440022172|
 |Raghad Suliman Dakhil Aldakhil| 440023173  |
-| Supervisor: Dr. Manan Almusallam
+| --------------- |
+| Supervisor: Dr. Manan Almusallam |
 
